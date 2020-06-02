@@ -1,0 +1,29 @@
+eseradı    : İnsan Ne İle Yaşar
+yazaradı   : Lev Tolstoy
+basımyılı  : 2014
+ısbn        : 1789548654886
+yayınevi   : Bilge Kültür Sanat
+
+eser adı    : Gazap Üzümleri
+yazar adı   : John Steinbeck
+basım yılı  : 2015
+ısbn        : 8789547654589
+yayınevi   : Sel Yayıncılık
+
+eseradı    : Altıncı Koğuş
+yazaradı   : Anton Pavloviç Çehov
+basımyılı  : 2017
+ısbn        : 2789548954795
+yayınevi   : İş Bankası Kültür Yayınları
+
+eseradı    : İki Şehrin Hikayesi
+yazaradı   : Charles Dickens
+basımyılı  : 2018
+ısbn        : 3189548654811
+yayınevi   : Can Yayınları
+
+eseradı    : Vadideki Zambak
+yazaradı   : Honore de Balzac
+basımyılı  : 2016
+ısbn        : 7489548554791
+yayınevi   : Koridor Yayıncılık
